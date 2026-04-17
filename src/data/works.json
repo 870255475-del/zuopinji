@@ -1,0 +1,54 @@
+{
+  "works": [
+    {
+      "id": "1",
+      "title": "示例作品 1",
+      "description": "这是一个图片作品示例",
+      "type": "image",
+      "url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800",
+      "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400",
+      "tags": ["设计", "艺术"],
+      "createdAt": "2024-01-15"
+    },
+    {
+      "id": "2",
+      "title": "示例作品 2",
+      "description": "这是一个视频作品示例",
+      "type": "video",
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "thumbnail": "https://images.unsplash.com/photo-1536240478700-b869070f9279?w=400",
+      "tags": ["视频", "剪辑"],
+      "createdAt": "2024-01-20"
+    },
+    {
+      "id": "3",
+      "title": "B站视频示例",
+      "description": "嵌入B站视频示例",
+      "type": "bilibili",
+      "bvid": "BV1xx411c7XD",
+      "thumbnail": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=400",
+      "tags": ["视频", "教程"],
+      "createdAt": "2024-01-25"
+    },
+    {
+      "id": "4",
+      "title": "音频作品示例",
+      "description": "这是一个音频作品示例",
+      "type": "audio",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "thumbnail": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=400",
+      "tags": ["音乐", "创作"],
+      "createdAt": "2024-02-01"
+    },
+    {
+      "id": "5",
+      "title": "外部链接示例",
+      "description": "大文件通过外部链接分享",
+      "type": "link",
+      "url": "https://www.swisstransfer.com",
+      "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400",
+      "tags": ["下载", "资源"],
+      "createdAt": "2024-02-05"
+    }
+  ]
+}

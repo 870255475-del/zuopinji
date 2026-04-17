@@ -1,0 +1,14 @@
+{
+  "siteTitle": "我的作品集",
+  "siteDescription": "欢迎来到我的个人作品集网站",
+  "visitorPassword": "123456",
+  "adminPassword": "114514",
+  "contact": {
+    "email": "contact@example.com",
+    "phone": "138-0000-0000",
+    "github": "https://github.com/yourusername",
+    "twitter": "https://twitter.com/yourusername"
+  },
+  "template": "grid",
+  "theme": "light"
+}
